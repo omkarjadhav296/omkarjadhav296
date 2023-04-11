@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@omkarja38388467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarja38388467" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omkar-jadhav-81a1b31a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/omkar-jadhav-81a1b31a4" height="30" width="40" /></a>
-<a href="https://kaggle.com/omkaraj296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omkaraj296" height="30" width="40" /></a> <a href="https://www.instagram.com/omkaraj_296" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="omkaraj_296" height="40" width="40" /></a>
+<a href="https://kaggle.com/omkaraj296" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/kaggle_logo_icon_168474.png" alt="omkaraj296" height="60" width="60" /></a> <a href="https://www.instagram.com/omkaraj_296" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="omkaraj_296" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages: </h3>
