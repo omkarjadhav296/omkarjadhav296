@@ -38,7 +38,7 @@ ___
 
 <div class="header">
   <h1>Announcements:</h1>
-The update related to training setion will be posted here
+The update related to training will be posted here
 </div>
 
 
