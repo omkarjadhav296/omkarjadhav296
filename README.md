@@ -34,3 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarjadhav296&show_icons=true&locale=en" alt="omkarjadhav296" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjadhav296&" alt="omkarjadhav296" /></p>
+
+
+
+**Note- __This portfolio is work in progress__**
+
+&copy; Omkar_Jadhav
