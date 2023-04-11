@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Sugarcane Crop Monitoring Using SAR Dataset**
 
-- 🌱 I’m currently learning **Geo-informatics, Web-GSI, DBMS, Front-End Development and Back-End Development**
+- 🌱 I’m currently learning **Geo-informatics, Web-GIS, DBMS, Front-End Development and Back-End Development**
 
 - 💬 Ask me about **Satellite Image Processing, Machine Learning, Deep Learning**
 
