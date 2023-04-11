@@ -37,7 +37,7 @@
 ___
 
 <div class="header">
-  <h2>Announcements:<img src="https://media.istockphoto.com/id/1344512181/vector/icon-red-loudspeaker.jpg?b=1&s=170x170&k=20&c=PeFgyYUbgRDraaG08LDiSKjB_17wwQHA9D7nwMqQcZQ=" alt="logo" width="30" height="30"/></h2> 
+  <h1>Announcements:</h1> 
 </div>
 **The Announcement related to training will be posted here soon**
 
