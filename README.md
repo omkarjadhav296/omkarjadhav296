@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjadhav296&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjadhav296" /> </p>
 <h3 align="left">🔭 Working On:</h3>
 <b> I’m currently working on Sugarcane Crop Monitoring Using SAR Dataset </b>
-
+<hr>
 <h3 align="left">🌱 Learning:</h3>
 <b> I’m currently learning NLP | Deep Learning | Full-stack web development</b>
-
+<hr>
 <h3 align="left">💬 Ask me about:</h3>
 <b> Satellite Image Processing | Machine Learning | Statistical Analysis</b>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@omkarja38388467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarja38388467" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 
 <div class="header">
   <h1>Announcements:</h1>
-No Announcement to make
+No announcement to make
 </div>
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
