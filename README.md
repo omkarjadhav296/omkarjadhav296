@@ -34,9 +34,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarjadhav296&show_icons=true&locale=en" alt="omkarjadhav296" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjadhav296&" alt="omkarjadhav296" /></p>
+___
 
+<div class="header">
+  <h2>Announcements:<img src="https://media.istockphoto.com/id/1344512181/vector/icon-red-loudspeaker.jpg?b=1&s=170x170&k=20&c=PeFgyYUbgRDraaG08LDiSKjB_17wwQHA9D7nwMqQcZQ=" alt="logo" width="30" height="30"/></h2> 
+</div>
+**The Announcement related to training will be posted here soon**
 
-
-# Note- This portfolio is work in progress
-
+### Note- This portfolio is work in progress
+  
+<div class="footer">
 &copy; Omkar_Jadhav
+</div>
