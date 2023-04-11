@@ -37,9 +37,10 @@
 ___
 
 <div class="header">
-  <h1>Announcements:</h1> 
+  <h1>Announcements:</h1>
+The update related to training setion will be posted here
 </div>
-**The Announcement related to training will be posted here soon**
+
 
 ### Note- This portfolio is work in progress
   
