@@ -37,6 +37,6 @@
 
 
 
-**Note- __This portfolio is work in progress__**
+# Note- This portfolio is work in progress
 
 &copy; Omkar_Jadhav
