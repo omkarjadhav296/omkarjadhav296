@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjadhav296&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjadhav296" /> </p>
 <h3 align="left">🔭 Working On:</h3>
 <b> I’m currently working on Sugarcane Crop Monitoring Using SAR Dataset </b>
-<hr>
+
 <h3 align="left">🌱 Learning:</h3>
 <b> I’m currently learning NLP | Deep Learning | Full-stack web development</b>
-<hr>
+
 <h3 align="left">💬 Ask me about:</h3>
 <b> Satellite Image Processing | Machine Learning | Statistical Analysis</b>
 <hr>
