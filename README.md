@@ -1,4 +1,4 @@
-![logo](https://github.com/omkarjadhav296/omkarjadhav296/blob/main/Banner%20GitHub.png)
+![logo](https://github.com/omkarjadhav296/omkarjadhav296/blob/main/OmkarJadhav_Banner.png)
 <div>
 <h3 align="center">A Data Science Enthusiast from India.</h3>
 </div>
