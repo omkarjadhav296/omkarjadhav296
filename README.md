@@ -41,7 +41,7 @@
 
 <div class="header">
   <h1>Announcements:</h1>
-No announcement to make
+  <a href=""><img align="left" src="https://img.freepik.com/premium-vector/man-thinking-sitting-question-mark_294791-307.jpg?size=626&ext=jpg&uid=R23536120&ga=GA1.1.2013190332.1655180492&semt=sph"></a>
 </div>
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
