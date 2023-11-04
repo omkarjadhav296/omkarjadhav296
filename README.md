@@ -34,7 +34,6 @@
 <h3 align="left">My GitHub Stats:</h3> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarjadhav296&show_icons=true&locale=en&layout=compact" alt="omkarjadhav296" width="400" height="150"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarjadhav296&show_icons=true&locale=en&hide=contribs,prs" alt="omkarjadhav296" width="400"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjadhav296&" alt="omkarjadhav296" width="400"/></p>
 
   
