@@ -1,6 +1,6 @@
 ![logo](https://github.com/omkarjadhav296/omkarjadhav296/blob/main/OmkarJadhav_Banner.png)
 <div>
-<h3 align="center">I'm a Data Science Enthusiast from India.</h3><p align="right">
+<h3 align="center">I'm a GeoData Science Enthusiast</h3><p align="right">
 </div>
 <hr>
   
@@ -8,13 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjadhav296&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjadhav296" /> </p>
 <h3 align="left">🛠 Working On:</h3>
-<b> I’m currently working on Web-GIS Development</b>
+<b> I’m currently working on Web-GIS </b>
+<b> Predictive Modelling in Agro-Meteorology</b>
 
 <h3 align="left">🌱 Learning:</h3>
-<b> I’m currently learning NLP | Deep Learning | Full-stack web development</b>
+<b> I’m currently learning NLP | Full-stack web development</b>
 
 <h3 align="left">💬 Ask me about:</h3>
-<b> Satellite Image Processing | Machine Learning | Statistical Analysis</b>
+<b> Satellite Image Processing | Machine-Learning | Deep-Learning | Predictive Modelling</b>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
