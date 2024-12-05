@@ -6,14 +6,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjadhav296&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjadhav296" /> </p>
 <h3 align="left">🛠 Working On:</h3>
-<b> I’m currently working on Web-GIS </b><br>
-<b> Predictive Modelling in Agro-Meteorology</b>
+<b>
+  [1] I’m currently working on Web-GIS <br>
+  [2] Predictive Modelling in Agro-Meteorology
 
 <h3 align="left">🌱 Learning:</h3>
-<b> I’m currently learning NLP | Full-stack web development</b>
+<b>
+  [1] I’m currently learning NLP <br>
+  [2] Full-stack web development
+</b>
 
 <h3 align="left">💬 Ask me about:</h3>
-<b> Satellite Image Processing | Machine-Learning | Deep-Learning | Predictive Modelling</b>
+<b> 
+  [1] Satellite Image Processing <br>
+  [2] Machine-Learning <br>
+  [3] Deep-Learning <br>
+  [4] Predictive Modelling <br>
+</b>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
