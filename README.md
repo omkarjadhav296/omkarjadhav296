@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjadhav296&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjadhav296" /> </p>
 <h3 align="left">🛠 Working On:</h3>
-<b> I’m currently working on Web-GIS </b>
+<b> I’m currently working on Web-GIS </b><br>
 <b> Predictive Modelling in Agro-Meteorology</b>
 
 <h3 align="left">🌱 Learning:</h3>
