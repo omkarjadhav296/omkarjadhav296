@@ -40,19 +40,3 @@
 
 <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/apache_hadoop_logo_icon_169586.png" alt="Hadoop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="50"/> </a>  </p>  -->
 <h1></h1>
-<h3 align="left">My GitHub Stats:</h3> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarjadhav296&show_icons=true&locale=en&layout=compact" alt="omkarjadhav296" width="400" height="150"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarjadhav296&show_icons=true&locale=en&hide=contribs,prs" alt="omkarjadhav296" width="400"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjadhav296&" alt="omkarjadhav296" width="400"/></p>
-
-<h1></h1>
-<div class="header">
-  <h1>Announcements:</h1>
-<p>Yet to make.</p>
-</div>
-
-<p>
-<div class="footer">
-&copy; Omkar_Jadhav
-</div>
-</p>
